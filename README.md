@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinalgupta24&label=Profile%20views&color=0e75b6&style=flat" alt="mrinalgupta24" /> </p>
 <p align="left"> <a href="https://twitter.com/mrinalgupta24" target="blank"><img src="https://img.shields.io/twitter/follow/mrinalgupta24?logo=twitter&style=for-the-badge" alt="mrinalgupta24" /></a> </p>
 
-- 🌱 I’m currently learning **Google Cloud and Python**
+- 🌱 I’m currently learning **Google Cloud, DevOps and Python**
 
 - 💬 Ask me about **MERN , Android , and DSA**
 
