@@ -1,4 +1,4 @@
-![Logo](https://github.com/mrinalgupta24/mrinalgupta24/blob/main/mrinalguptabanner.png)
+![Logo](https://github.com/mrinalgupta24/mrinalgupta24/blob/main/LinkedIn%20Banner.png)
 <h1 align="center">Hi! My name is Mrinal Gupta 😄</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/mrinalgupta24/mrinalgupta24/blob/main/Businessman%20using%20a%20laptop.gif"
