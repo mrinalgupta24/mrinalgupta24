@@ -1,6 +1,6 @@
 ![Logo](https://github.com/mrinalgupta24/mrinalgupta24/blob/main/mrinalguptabanner.png)
 <h1 align="center">Hi! My name is Mrinal Gupta 😄</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/mrinalgupta24/mrinalgupta24/blob/main/Businessman%20using%20a%20laptop.gif"
 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinalgupta24&label=Profile%20views&color=0e75b6&style=flat" alt="mrinalgupta24" /> </p>
