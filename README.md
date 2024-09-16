@@ -1,7 +1,7 @@
 ![Logo](https://github.com/mrinalgupta24/mrinalgupta24/blob/main/mrinalguptabanner.png)
 <h1 align="center">Hi! My name is Mrinal Gupta 😄</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/free-lottie-animation/businessman-using-a-laptop-6499912"
+<img align="right" alt="Coding" width="400" src="https://github.com/mrinalgupta24/mrinalgupta24/blob/main/Businessman%20using%20a%20laptop.gif"
 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinalgupta24&label=Profile%20views&color=0e75b6&style=flat" alt="mrinalgupta24" /> </p>
 <p align="left"> <a href="https://twitter.com/mrinalgupta24" target="blank"><img src="https://img.shields.io/twitter/follow/mrinalgupta24?logo=twitter&style=for-the-badge" alt="mrinalgupta24" /></a> </p>
