@@ -1,4 +1,4 @@
-![GitHub Banner](https://raw.githubusercontent.com/mrinalgupta24/mrinalgupta24/main/LinkedIn%20Banner.png)
+![GitHub Banner](https://raw.githubusercontent.com/mrinalgupta24/mrinalgupta24/c9bc61dc1098e51202b9e93c29850159890a4cfa/bbcbe1c6-edc0-40e3-9d6f-2feafd7e8922.png)
 
 <h1 align="center">Hi, I'm Mrinal Gupta 👋</h1>
 <h3 align="center">Customer Success Engineer | AI & Automation | Cloud & DevOps</h3>
