@@ -125,18 +125,3 @@ I'm a Customer Success Engineer passionate about solving complex technical probl
 <p align="center">
   <i>Building practical solutions at the intersection of AI, cloud infrastructure, and customer experience.</i>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrinalgupta24&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinalgupta24&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mrinalgupta24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrinalgupta24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
